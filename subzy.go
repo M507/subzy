@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/lukasikic/subzy/src"
+	"github.com/m507/subzy/src"
 )
 
 func main() {

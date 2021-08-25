@@ -10,7 +10,7 @@ import (
 	homedir "github.com/mitchellh/go-homedir"
 )
 
-var fingerprintPath = "https://raw.githubusercontent.com/LukaSikic/subzy/master/src/fingerprints.json"
+var fingerprintPath = "https://raw.githubusercontent.com/m507/subzy/master/src/fingerprints.json"
 
 func GetFingerprintPath() (string, error) {
 	home, err := homedir.Dir()
